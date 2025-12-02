@@ -1,56 +1,70 @@
-# Infosys Springboard Internship 2025  
-### AI System to Automatically Review and Summarize Research Papers  
-Mentor: **Vikash Ranjan (AI/ML Engineer)**  
+# Infosys Springboard Internship 2025
+
+### **AI System to Automatically Review and Summarize Research Papers**  
+**Mentor:** Vikash Ranjan (AI/ML Engineer)
 
 ---
 
 ## 📌 About the Internship
-This repository contains my daily work, learning notes, tasks, research, and progress for the Infosys Springboard Virtual Internship 2025.
+This repository documents my daily learning, research, tasks, and progress throughout the **Infosys Springboard Virtual Internship 2025**.
 
-The project focuses on building an **AI/NLP-based system** that can automatically:
-- Read a research paper
-- Understand its key sections
-- Summarize it
-- Generate insights
+The project focuses on building an **AI/NLP system** capable of:
+- Reading research papers  
+- Identifying major sections  
+- Summarizing content  
+- Generating meaningful insights  
 
 ---
 
-## 📚 Prerequisites (as explained by Mentor – Day 1)
-- Strong Python foundations  
-- Python libraries:  
-  - NumPy  
-  - Pandas  
-  - Scikit-learn  
-  - PyTorch  
-  - Matplotlib / Seaborn  
-- Mathematics for ML:  
-  - Linear algebra  
-  - Probability  
-  - Statistics  
-  - Differentiation  
-- Data handling skills:  
-  - CSV  
-  - Images  
-  - Audio  
-  - Video  
-- Data preprocessing:  
-  - Cleaning  
-  - Standardization  
-  - Normalization  
+## 📚 Prerequisites (Explained by Mentor – Day 1)
+
+### **1️⃣ Python Programming**
+- Writing clean, modular, structured code  
+- Understanding functions, loops, OOP  
+- Working with files (CSV, JSON, text)
+
+### **2️⃣ Essential ML / Python Libraries**
+- **NumPy** – numerical computations  
+- **Pandas** – data manipulation  
+- **Matplotlib / Seaborn** – visualization  
+- **Scikit-learn** – ML models & preprocessing  
+- **PyTorch** – deep learning  
+
+### **3️⃣ Mathematics for ML**
+- Linear Algebra  
+- Probability  
+- Statistics  
+- Differentiation & Gradients  
+
+### **4️⃣ Data Handling & Preprocessing**
+- Working with:  
+  CSV files, images, audio, video, text  
+- Performing:  
+  Cleaning, preprocessing, standardization, normalization  
 
 ---
 
 ## 🗓️ Daily Progress Log
-
-### **Day 1 — Introduction & Prerequisites**
-- Met mentor and co-interns  
-- Understood project goals  
-- Mentor explained all required skills  
-- Setup repo for daily documentation  
-- Planned learning roadmap  
-
-*(Detailed notes in `/Day-1/Day1.md`)*
+- **Day 1 — Introduction & Prerequisites**  
+  - Met mentor & co-interns  
+  - Understood internship structure & project scope  
+  - Discussed required skills  
+  - Created repository for documentation  
+  - Planned learning pathway  
+  - (Detailed notes in **Day_1.md**)
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure (Current)
+- Infosys-Springboard-Internship-2025/
+  - │── README.md
+  - │── Day_1.md
+   -  └── (more days will be added...)
+
+
+---
+
+## 🚀 Goal
+To gain hands-on experience in real-world **ML & NLP** development by contributing to the research-paper understanding and summarization system under expert mentorship.
+
+
