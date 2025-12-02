@@ -1,84 +1,75 @@
-# 🌟 Infosys Springboard Virtual Internship 2025 – Day 1
-
-## 📅 Date: 02 December 2025  
-## 👨‍🏫 Mentor: Vikash Ranjan (AI/ML Engineer)  
-## 🧠 Project: **AI System to Automatically Review & Summarize Research Papers**
+# 🌟 Infosys Springboard Virtual Internship 2025 — Day 1  
+📅 **Date:** 02 December 2025  
+👨‍🏫 **Mentor:** Vikash Ranjan (AI/ML Engineer)  
+🧠 **Project:** AI System to Automatically Review & Summarize Research Papers  
 
 ---
 
 ## 🔹 Introduction Session
+The internship began with a discussion-based orientation. Our mentor explained the overall flow of the program — focused more on practical learning, collaboration, and understanding real-world AI concepts rather than classroom-style teaching.
 
-Today was the first meeting of the Infosys Springboard Virtual Internship.  
-Our mentor introduced himself and explained how the internship will work — mainly practical, collaborative sessions instead of traditional classes.
-
-Each intern gave a short introduction.  
-Here is mine:
-
-**I’m Bata Sai Varun from Hyderabad, currently pursuing B.Tech CSE at KMIT.  
-I’m interested in AI, automation, and software development and joined this internship to gain real project experience with NLP and ML.**
+All interns introduced themselves.  
+**My Introduction:**  
+I am **Bata Sai Varun** from **Hyderabad**, currently pursuing **B.Tech CSE at KMIT**. I’m interested in **AI, automation, and practical ML/NLP projects**, and I joined this internship to gain real hands-on experience.
 
 ---
 
-# 📌 **Prerequisites for the Project (As Explained by Mentor)**
+## 📌 Prerequisites for the Project (Explained by Mentor)
 
-Our mentor clearly mentioned the essential skills required to work on any AI/ML project — especially this one.
+### **1. Strong Python Skills**
+- Writing reusable & clean code  
+- Understanding functions, loops, OOP  
+- Working with files (CSV/JSON)  
 
-### ✔ 1. Strong Python Programming
-- Writing clean, modular code  
-- Understanding loops, functions, OOP  
-- Handling files, modules, JSON, CSV, etc.
+### **2. Necessary ML Libraries**
+- **NumPy** — numerical operations  
+- **Pandas** — data preprocessing  
+- **Matplotlib/Seaborn** — visualization  
+- **Scikit-learn** — basic ML  
+- **PyTorch** — deep learning  
 
-### ✔ 2. ML Libraries (Must Know)
-Basic ML + Python libraries:
-- **NumPy** – numerical operations  
-- **Pandas** – data handling & preprocessing  
-- **Matplotlib** – visualization  
-- **Scikit-Learn** – basic ML models  
-- **PyTorch** – for deep learning models
+### **3. Mathematical Foundations**
+Needed for any ML/DL project:
+- Linear algebra  
+- Probability  
+- Statistics  
+- Differentiation / gradients  
 
-### ✔ 3. Mathematical Foundations
-A person should have good knowledge of:
-- **Linear Algebra**  
-- **Probability & Statistics**  
-- **Differentiation / Gradients**  
-These are used in ML/DL operations.
-
-### ✔ 4. Data Handling Skills
-Understanding how to work with various data types:
-- CSV data  
+### **4. Data Handling**
+Ability to work with:
+- CSV  
 - Images  
 - Audio  
 - Video  
 - Text  
-And also how to perform:
-- **Preprocessing**  
-- **Cleaning**  
-- **Standardization / Normalization**
 
-The mentor emphasized that ML/DL = 80% data work and 20% modeling.
+And perform:
+- Cleaning  
+- Preprocessing  
+- Standardization / normalization  
 
----
-
-# 📚 **What I Learned Today**
-- The internship will be practical and discussion-based.
-- Real ML/NLP projects need strong basics.
-- The project will involve research paper reading → text processing → summarization.
-- We will identify our knowledge gaps in the next few sessions.
+Our mentor emphasized that **ML/DL is 80% data work and 20% model building**.
 
 ---
 
-# 🎯 **My Action Plan**
-To prepare for upcoming sessions, I will:
-1. Revise Python fundamentals  
-2. Practice NumPy, Pandas, and Scikit-Learn  
-3. Study basic linear algebra & statistics  
-4. Learn text preprocessing (tokenization, stopwords, stemming, TF-IDF, embeddings)
+## 📚 What I Learned Today
+- Internship is practical + interactive  
+- Understanding fundamentals is essential  
+- Our project involves reading → processing → summarizing research papers  
+- We will identify knowledge gaps in upcoming sessions  
 
 ---
 
-# 🚀 **Conclusion**
-Day 1 was an orientation session focused on expectations and prerequisites.  
-I’m excited to work under the guidance of our mentor and learn real-world NLP techniques.
+## 🎯 My Action Plan
+To prepare for the next meetings, I will:
+- Revise Python basics  
+- Practice NumPy, Pandas, Scikit-Learn  
+- Study core math concepts  
+- Learn text preprocessing (tokenization, TF-IDF, stopwords, embeddings)  
 
-More updates coming soon!
+---
 
+## 🚀 Conclusion
+Day 1 provided a clear understanding of expectations, prerequisites, and the project direction. I’m excited to work under the guidance of my mentor and explore real-world NLP techniques.
+
+---
